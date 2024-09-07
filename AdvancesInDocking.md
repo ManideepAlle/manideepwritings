@@ -1,5 +1,5 @@
 # Molecular Docking in Drug Discovery
-##Authors(@Slack)- DerleenM, Manideep, ChamssDaghsni, JackeyWes 
+## Authors(@Slack)- DerleenM, Manideep, ChamssDaghsni, JackeyWes 
 ## Introduction
 
 Molecular docking is a method used in drug discovery which involves predicting the binding pose and energy of a ligand interacting with target proteins. These predictions have been useful in identifying potential drug candidates by estimating their binding affinities, thus pointing to the therapeutic potential of such molecules. Popular docking programs are evaluated on their effectiveness in balancing accuracy and speed, and new advancements are introduced to improve the precision in docking.
