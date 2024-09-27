@@ -12,8 +12,11 @@ A library of 50 phytochemicals from turmeric was curated. Complete details of th
 
 ## Protein preparation:
 A protein structure with PDB ID 3NXA, which corresponds to S100 calcium binding protein A16(S100A16), was selected as the target for docking analysis.
+
 Cleaning of the protein structure was done using PyMOL by removing water molecules together with bound ligands/hetero atoms. Hydrogens were thereafter added to the structure.
+
 Charges were finally added to the protein with the help of tools available in PyMOL to ensure proper molecular interactions.
+![image_of_protein_after_modification](https://github.com/user-attachments/assets/50ae75c8-a04b-49d7-929e-25941b18510f) Fig 1:Visualization of prepared protein
 
-
+## Molecular Docking of Turmeric Compounds against
  
