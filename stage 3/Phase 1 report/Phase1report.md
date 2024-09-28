@@ -19,4 +19,6 @@ Charges were finally added to the protein with the help of tools available in Py
 ![image_of_protein_after_modification](https://github.com/user-attachments/assets/50ae75c8-a04b-49d7-929e-25941b18510f) Fig 1:Visualization of prepared protein
 
 ## Molecular Docking of Turmeric Compounds against S100A16
+ CASTp is used to obtain active sites for MetAP2.
+ The energy minimization of the 50 curated turmeric compounds was done using PyRx , after which structures of protein and ligand were converted to the pdbqt format for docking.
  
