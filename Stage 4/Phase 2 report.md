@@ -35,12 +35,20 @@ The docking were conducted with the aid of a grid box laid over the active site,
 | HDAC9        | 8Q9R   | 67324851                            | -7.8                                    | 0                  |
 | HDAC10       | 7SGG   | 53344908                            | -10.1                                   | 0                  |
 | HDAC11       |        | 53344908                            | -8.53                                   | 0                  |
+Table1: Molecular Docking Analysis of HDAC Subtypes.
 
 The docking analysis revealed 53344908 and 67324851 as top ligands, with high affinity for multiple subtypes.
 53344908 exhibited the strongest binding to HDAC8 and showed consistent interactions across HDAC1, HDAC3, HDAC7, HDAC10, and HDAC11. 67324851 demonstrated high affinity for HDAC2, HDAC5, HDAC6, and HDAC9. No standard deviation, which indicated the stable binding of ligands in all triple docking.
 
 ## Comparating Binding Affinities of Compounds Across HDAC Subtypes
 ![download (1)](https://github.com/user-attachments/assets/372a7dc6-dba0-444c-8950-56460fa5857e)
+Figure1: HDAC Binding Affinity Heatmap
+
+## Conclusion
+TMP269 exhibits a binding affinity for HDAC11 comparable to FT895, but its broader affinity profile makes it a versatile inhibitor for cancer therapy. With strong interactions across multiple HDACs, TMP269 can target a wider range of HDAC-driven oncogenic pathways. The low standard deviation in docking simulations indicates robust binding, positioning TMP269 as a promising candidate for future therapeutic development in cancer treatment.
+
+## Reference
+Baselious, F., Hilscher, S., Hagemann, S., Tripathee, S., Robaa, D., Barinka, C., ... & Sippl, W. (2024). Utilization of an optimized AlphaFold protein model for structure‐based design of a selective HDAC11 inhibitor with anti‐neuroblastoma activity. Archiv der Pharmazie, e2400486.
 
 
 
