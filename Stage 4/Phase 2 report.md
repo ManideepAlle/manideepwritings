@@ -2,6 +2,7 @@
 ## Authors (@slack) :
 Alle Manideep(@Manideep)
 Chamss Daghsni (@ChamssDaghsni)
+
 ##Introduction
 
 Histone deacetylases (HDACs) are enzymes involved in chromatin remodeling through the removal of acetyl groups from histones, leading to condensed chromatin and reduced gene transcription. Their role in silencing tumor suppressor genes has made them important drug targets for cancer therapy. Dysregulation or overexpression of HDACs is frequently observed in various cancers, promoting uncontrolled cell growth and tumor progression.
