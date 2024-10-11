@@ -40,7 +40,9 @@ The docking analysis revealed 53344908 and 67324851 as top ligands, with high af
 53344908 exhibited the strongest binding to HDAC8 and showed consistent interactions across HDAC1, HDAC3, HDAC7, HDAC10, and HDAC11. 67324851 demonstrated high affinity for HDAC2, HDAC5, HDAC6, and HDAC9. No standard deviation, which indicated the stable binding of ligands in all triple docking.
 
 ## Comparating Binding Affinities of Compounds Across HDAC Subtypes
-![Sample Image](C:\Users\mandy\Downloads\download (1))
+![download (1)](https://github.com/user-attachments/assets/372a7dc6-dba0-444c-8950-56460fa5857e)
+
+
 
 
 
