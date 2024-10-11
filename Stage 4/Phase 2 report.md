@@ -22,9 +22,21 @@ The 50 phytochemical of turmeric and 11 inhibitors of 11 HDAC's one for each acc
 The docking were conducted with the aid of a grid box laid over the active site, creating multiple binding modes for each ligand in the PyRx.To enhance reliability, docking simulations were performed in triplicate for each protein-ligand pair, with binding affinities (docking scores) calculated. The mean and standard deviation of the results were then computed to identify the ligands that demonstrated the strongest and most consistent binding affinities for each HDAC subtype.
 
 ## Results
+| HDAC Subtype | PDB ID | Ligands with Highest Affinity (CID) | Mean of the Binding Affinity (kcal/mol) | Standard deviation |
+|--------------|--------|-------------------------------------|-----------------------------------------|--------------------|
+| HDAC1        | 4bkx   | 53344908                            | -8.5                                    | 0                  |
+| HDAC2        | 4lxz   | 67324851                            | -5.9                                    | 0                  |
+| HDAC3        | 4a69   | 53344908                            | -8.9                                    | 0                  |
+| HDAC4        | 5zop   | 6654                                | -5                                      | 0                  |
+| HDAC5        | 5uwi   | 67324851                            | -9.5                                    | 0                  |
+| HDAC6        | 3phd   | 67324851                            | -9.1                                    | 0                  |
+| HDAC7        | 3znr   | 53344908                            | -8.3                                    | 0                  |
+| HDAC8        | 2v5x   | 53344908                            | -11.5                                   | 0                  |
+| HDAC9        | 8Q9R   | 67324851                            | -7.8                                    | 0                  |
+| HDAC10       | 7SGG   | 53344908                            | -10.1                                   | 0                  |
+| HDAC11       |        | 53344908                            | -8.53                                   | 0                  |
 
 
-[results table.md.xlsx](https://github.com/user-attachments/files/17344320/results.table.md.xlsx)
 
 
 
