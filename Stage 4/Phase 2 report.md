@@ -35,6 +35,7 @@ The docking were conducted with the aid of a grid box laid over the active site,
 | HDAC9        | 8Q9R   | 67324851                            | -7.8                                    | 0                  |
 | HDAC10       | 7SGG   | 53344908                            | -10.1                                   | 0                  |
 | HDAC11       |        | 53344908                            | -8.53                                   | 0                  |
+
 Table1: Molecular Docking Analysis of HDAC Subtypes.
 
 The docking analysis revealed 53344908 and 67324851 as top ligands, with high affinity for multiple subtypes.
